@@ -1,4 +1,10 @@
-### Hi there 👋
+### Howdy, fellas! ✌😃
+
+Here am i, a simple programmer who likes working on personal - generally don't push this here ._. - and academic projects.
+Like to learn about a bunch of different things, sooo i dunno which is the next project that i'll start.
+Actually, i'm suffering with some bosses called Compilers and Distributed Systems in college, cuz looks like a little bit difficult to me.
+
+Check my humble repos if you want!
 
 
 <!--
