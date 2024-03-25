@@ -1,8 +1,8 @@
-### Howdy, fellas! ✌😃
+### Hi there! 
 
-Here am i, a simple programmer who likes working on personal - generally don't push this here ._. - and academic projects.
-Like to learn about a bunch of different things, sooo i dunno which is the next project that i'll start.
-Actually, i'm suffering with some bosses called Compilers and Distributed Systems in college, cuz looks like a little bit difficult to me.
+I'm just a simple programmer who likes working on personal - which i usually keep private - and academic projects.
+Like to learn about a bunch of different things, so i'm not sure which is the next project that i'll start.
+I'm currently struggling with some bosses called Compilers and Distributed Systems in college - they seem a bit challenging.
 
 Check my humble repos if you want!
 
