@@ -1,4 +1,4 @@
-### Hi there! 
+### Hi there ✌️! 
 
 I'm just a simple programmer who likes working on personal - which i usually keep private - and academic projects.
 Like to learn about a bunch of different things, so i'm not sure which is the next project that i'll start.
