@@ -1,6 +1,6 @@
 ### Hi there ✌️! 
 
-An aspiring programmer who enjoys working on personal and academic projects.
+I'm an aspiring programmer who enjoys working on personal and academic projects.
 
 - Curious about computer science
 - I intend to work as a GameDev, but I'd try other areas until I reach my goal
